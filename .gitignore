@@ -4,6 +4,9 @@ __pycache__/
 *$py.class
 .DS_Store
 
+# Pictures (avoid spamming github)
+taproot_wizards/wizards/*.png
+
 # C extensions
 *.so
 

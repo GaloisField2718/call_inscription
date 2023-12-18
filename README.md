@@ -1,8 +1,18 @@
 # Call ordinal inscription with Python Code
 
-## Disclaimer
+## Code updated 🚀
+### Wizards download 🧙
 
-For now it's extracting `gen-brc-721` protocol data. This protocol uses `deploy inscription` like  [GBRC721 BitPunks | gen-brc-721 collection](https://ordinals.link/content/c3915284759eaba761f6e5acf64b50e1089fe62448b595f61a40407d71bfb85ei0).
+There is a `taproot_wizards` folder where we can get images of taproot wizards from a local ordinals instances. Please don't spam [ordinals.com](https://ordinals.com) and try to use your own instance !
+
+You can find indexes at [ordstuff indexes](https://ordstuff.info/Downloads/indexes/) and client is working on most common OS.
+
+
+
+## Rest of the repo 📂
+### gen-brc-721
+
+It's extracting `gen-brc-721` protocol data. This protocol uses `deploy inscription` like  [GBRC721 BitPunks | gen-brc-721 collection](https://ordinals.link/content/c3915284759eaba761f6e5acf64b50e1089fe62448b595f61a40407d71bfb85ei0).
 
 The `data.py` code takes a `deploy inscription` parameter to generate folders and extract each trait in png format.
 
